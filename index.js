@@ -15,7 +15,7 @@ const db = mysql.createConnection({
   user: "root",
   password: "Pk@123456",
   database: "task_manager",
-  POTT: 3000,
+  PORT: 4000,
 });
 
 // Connect to the database
